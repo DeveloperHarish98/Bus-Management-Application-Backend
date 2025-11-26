@@ -1,4 +1,4 @@
-###✨ Full-Stack Deployment Ecosystem###
+✨ Full-Stack Deployment Ecosystem
 A beautifully deployed cloud-native application
 🚀 Overview
 
