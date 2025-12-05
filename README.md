@@ -109,11 +109,15 @@ graph TD
 
 ## 📸 Screenshots
 
-| Feature | Screenshot |
-|---------|------------|
-| **Frontend** | ![Frontend](screenshots/frontend.png) |
-| **Backend** | ![Backend](screenshots/backend.png) |
-| **Database** | Database Deployment.png |
+### Deployment Screenshots
+
+| Component | Screenshot |
+|-----------|------------|
+| **Frontend Deployment 1** | ![Frontend Deployment 1](Frontend%20Deployment%201.png) |
+| **Frontend Deployment 2** | ![Frontend Deployment 2](Frontend%20Deployment%202.png) |
+| **Frontend Deployment 3** | ![Frontend Deployment 3](Frontend%20Deployment%203.png) |
+| **Backend Deployment** | ![Backend Deployment](Backend%20Deployment.png) |
+| **Database Deployment** | ![Database Deployment](Database%20Deployment.png) |
 
 ## 🤝 Contributing
 
