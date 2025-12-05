@@ -7,10 +7,8 @@ A production-ready, cloud-native application demonstrating modern deployment pra
 - [Architecture](#-architecture)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Getting Started](#-getting-started)
 - [Deployment](#-deployment)
 - [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ## 🌟 Overview
@@ -30,66 +28,33 @@ graph TD
 ## ✨ Features
 
 ### Frontend (Netlify)
-- 🚀 Blazing fast static site hosting
-- 🔄 Automated deployments on every commit
-- 🌍 Global CDN distribution
-- 🔧 Built-in CI/CD pipeline
+- Blazing fast static site hosting
+- Automated deployments on every commit
+- Global CDN distribution
+- Built-in CI/CD pipeline
 
 ### Backend (Render)
-- ⚡ High-performance server runtime
-- 🔒 Secure environment management
-- 🔄 Auto-scaling capabilities
-- �️ DDoS protection
+- High-performance server runtime
+- Secure environment management
+- Auto-scaling capabilities
+- DDoS protection
 
-### Database (PostgreSQL on Render)
-- 🗄️ Fully managed PostgreSQL
-- 🔄 Automated backups
-- ⚡ High availability
-- 🔒 Secure connections
+### Database (PostgreSQL)
+- Fully managed PostgreSQL
+- Automated backups
+- High availability
+- Secure connections
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: [Your frontend framework] (e.g., React, Vue, Angular)
-- **Backend**: [Your backend framework] (e.g., Node.js, Python, Java)
+- **Frontend**: [Your frontend framework] (Html, Css, React)
+- **Backend**: [Your backend framework] (Java-8, Spring Boot)
 - **Database**: PostgreSQL
 - **Hosting**:
   - Frontend: Netlify
   - Backend: Render
   - Database: Render PostgreSQL
 - **Version Control**: GitHub
-
-## � Getting Started
-
-### Prerequisites
-- Node.js (version x.x.x)
-- npm (version x.x.x)
-- PostgreSQL (version x.x)
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [your-repository-url]
-   cd [repository-name]
-   ```
-2. Install dependencies:
-   ```bash
-   # Install frontend dependencies
-   cd frontend
-   npm install
-   
-   # Install backend dependencies
-   cd ../backend
-   npm install
-   ```
-3. Set up environment variables:
-   ```env
-   # Frontend
-   REACT_APP_API_URL=your_api_url
-   
-   # Backend
-   DATABASE_URL=your_database_url
-   PORT=3001
-   ```
 
 ## � Deployment
 
@@ -119,18 +84,9 @@ graph TD
 | **Backend Deployment** | ![Backend Deployment](Backend%20Deployment.png) |
 | **Database Deployment** | ![Database Deployment](Database%20Deployment.png) |
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the IND License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
