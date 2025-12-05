@@ -113,7 +113,7 @@ graph TD
 |---------|------------|
 | **Frontend** | ![Frontend](screenshots/frontend.png) |
 | **Backend** | ![Backend](screenshots/backend.png) |
-| **Database** | ![Database](Database Deployment.png) |
+| **Database** | Database Deployment.png |
 
 ## 🤝 Contributing
 
