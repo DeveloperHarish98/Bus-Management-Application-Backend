@@ -2,7 +2,7 @@
 
 A production-ready, cloud-native application demonstrating modern deployment practices with Netlify, Render, and PostgreSQL.
 
-## � Table of Contents
+## Table of Contents
 - [Overview](#-overview)
 - [Architecture](#-architecture)
 - [Features](#-features)
@@ -15,7 +15,7 @@ A production-ready, cloud-native application demonstrating modern deployment pra
 
 This project showcases a fully deployed end-to-end full-stack application with a clean, cloud-native architecture. The system integrates multiple cloud services to deliver a robust and scalable solution.
 
-## �️ Architecture
+## Architecture
 
 ```mermaid
 graph TD
@@ -56,7 +56,7 @@ graph TD
   - Database: Render PostgreSQL
 - **Version Control**: GitHub
 
-## � Deployment
+## Deployment
 
 ### Frontend (Netlify)
 1. Push your code to GitHub
